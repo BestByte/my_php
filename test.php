@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-
-    <?php
-    echo "我的第一段 PHP 脚本！";
-    ?>
-
-</body>
-
-</html>
+<?php
+$a = 5;
+$b = 36.2;
+$a = $a + $b; 
+echo $a;
+//phpinfo();
+?>
